@@ -1,0 +1,367 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
+
+#main {
+  width: 100%;
+  padding: 0;
+}
+
+.content-asset p {
+  margin: 0 auto;
+}
+
+.breadcrumb {
+  display: none;
+}
+
+.margin-top-10 {
+  padding-top: 10px;
+}
+
+.margin-bot-10 {
+  padding-bottom: 10px;
+}
+
+#homee {
+  background: red;
+  width: 100%;
+}
+
+#homee h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: black;
+    padding: 0;
+    margin: 0;
+}
+
+#homee h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 75px;
+  letter-spacing: 10px;
+  text-align: center;
+  color: white;
+  font-weight: 400;
+  text-transform: uppercase;
+  z-index: 10;
+  opacity: .9;
+}
+
+#homee h3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  line-height: 0;
+  font-weight: 400;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+  color: black;
+}
+
+#homee .block p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 500;
+  font-size: 3.5rem;
+}
+
+.first-character {
+  font-weight: 400;
+  float: left;
+  font-size: 84px;
+  line-height: 64px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.sc {
+  color: #f81f31;
+}
+
+.ny {
+  color: #3d3c3a;
+}
+
+.atw {
+  color: #c48660;
+}
+
+#homee .title {
+  background: #7805096b;
+  padding: 90px;
+  margin: 0 auto;
+  
+  text-align: center;
+}
+
+#homee .title h1 {
+  font-size: 15rem;
+  letter-spacing: 8px;
+  color: orange;
+  font-weight: 570;
+  text-shadow: 0px 4px 9px black;
+}
+
+#homee .title h3 {
+  font-size: 60px;
+  letter-spacing: 8px;
+  color: white;
+  font-weight: 650;
+}
+
+#homee .block {
+  background: red;
+  color: white;
+  padding: 130px;
+  width: 2900px;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+#homee .block h1 {
+  font-size: 4rem;
+  text-align: center;
+  letter-spacing: 8px;
+  color: orange;
+  font-weight: 570;
+  text-shadow: 0px 4px 9px black;
+}
+
+#homee .block-gray {
+  background: #f2f2f2;
+  padding: 60px;
+}
+
+#homee .section-overlay-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.70;
+}
+
+#homee .homee-one {
+  padding-top: 800px;
+  padding-bottom: 800px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(homee-one.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+#homee .homee-threee {
+  padding-top: 800px;
+  padding-bottom: 800px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(frd2.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#homee .homee-threee h2 {
+  color: white;
+  background-color: black;
+  padding: 30px;
+  font-size: 10rem;
+}
+
+#homee .homee-one h2 {
+  color: white;
+  background-color: black;
+  padding: 30px;
+  font-size: 10rem;
+}
+
+#homee .homee-two {
+  padding-top: 800px;
+  padding-bottom: 800px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(homee-two.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#homee .homee-two h2 {
+  color: white;
+  background-color: black;
+  padding: 30px;
+  font-size: 10rem;
+}
+
+ul li {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 500;
+  font-size: 3.3rem;
+  list-style: disc;
+}
+
+#homee .homee2 h2 {
+  color: white;
+  background-color: black;
+  padding: 30px;
+  font-size: 10rem;
+}
+
+#homee .homee2 {
+  padding-top: 800px;
+  padding-bottom: 800px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(homee2.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.about-us {
+  padding: 100px 50px;
+  height: 150rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image-con {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 70rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 10rem;
+}
+
+.image-con img {
+    max-width: 90%;
+    height: 60rem;
+    border-radius: 40px;
+    margin-top: 70px;
+    position: relative;
+    align-items: center;
+    margin-left: 50px;
+    z-index: 1;
+}
+
+.image-con .content {
+    width: 70%;
+    height: 90%;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+.image-con .content h1 {
+    color: white;
+    font-size: 12rem;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.image-con .content p {
+    font-size: 3rem;
+    color: white;
+    list-style:disc;
+    margin-bottom: 20px;   
+}
+
+.image-con .content ul li{
+    color: white;
+}
+
+
+#homee .homee-three {
+  padding-top: 800px;
+  padding-bottom: 800px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(homee-three.png);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#homee .homee-three h2 {
+  color: white;
+  background-color: black;
+  padding: 30px;
+  font-size: 10rem;
+}
+
+
+.images {
+    margin-left: 10%;
+    height: 1600px;
+    width: 2400px;
+    aspect-ratio: 1;
+    border-radius: 4%;
+    gap: 27px;
+    align-items: center;
+    
+}
+#homee .homee-four {
+  padding-top: 800px;
+  padding-bottom: 800px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(homee-four.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#homee .homee-four h2 {
+  color: white;
+  background-color: black;
+  padding: 30px;
+  font-size: 10rem;
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate {
+  animation: fadeInUp 1s ease-out forwards;
+}
+
+.block, .homee-one, .homee-two, .homee-threee, .homee-three, .homee-four, .image-con {
+  opacity: 10;
+  transform: translateY(20px);
+}
